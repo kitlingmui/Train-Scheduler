@@ -1,0 +1,42 @@
+.jumbotron{
+    background-color: brown;
+    color: white;
+}
+
+
+#train-table th,
+td {
+    display: inline-block;
+    width: 16%;
+}
+
+p{
+    text-align: left;
+    font-weight: bold;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+.card-header{
+    background-color: blue;
+    color: white;
+}
+
+.card-body{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+td{
+    margin-left: 5px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
